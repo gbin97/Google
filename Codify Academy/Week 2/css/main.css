@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'hero';
+	src: url('../fonts/DisneyHeroic.ttf');
+}
+
+h1 {
+	background-color: grey;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'hero';
+	font-size: 60px;
+
+
+}
+
+.wrapper {
+	position: relative;
+}
+
+.wrapper p {
+	font-size: 50px;
+	font-family: 'Great Vibes' , sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+	font-size: 30px;
+	font-family: 'Great Vibes' , sans-serif;
+}
+
+a:hover {
+	color: red;
+}
+
+sup {
+	color: purple;
+}
+
+sub {
+	color: red;
+}
+
